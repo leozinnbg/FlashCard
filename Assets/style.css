@@ -26,7 +26,7 @@ body{
     flex-basis: calc(33% - 6rem);
   }
   .cartao_conteudo{
-    padding: 4rem;
+    padding: 6rem;
   }
   .cartao__conteudo h3{
     color: var(--text-color);
