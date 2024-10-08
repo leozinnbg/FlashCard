@@ -28,7 +28,7 @@ body{
   .cartao_conteudo{
     padding: 6rem;
   }
-  .cartao__conteudo h3{
+  .cartao_conteudo h3{
     color: var(--text-color);
     border: 1px solid var(--text-color);
     text-align: left;
